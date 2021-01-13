@@ -20,9 +20,12 @@ This was my first ever completed game on unity. While it is nothing major, I wan
 I did use tutorials from a course on Udemy to help me start and looked over a few lessons from there. While using the lessons to assist me there were tasks in the project that required some prior thought. One main example of this would be the use of gamestates that I was required to figure out. This would enable the same reuse of code depending on the gamestate. Example of this as follows:
 
 > The below code is from the Hacker class within our game.
+
     enum Screen { MainMenu, Password, Win };
     Screen currentScreen = Screen.MainMenu;
+
 > Above we can see that we have three gamestates using an `enum` and setting the state to either `MainMenu`, `Password`, `Win`. I then use this to set the `Screen` to `MainMenu` by default when the game starts up/the player hits play.
+
     void OnUserInput(string input)
     {
         if (input.ToLower() == "menu")
@@ -38,6 +41,7 @@ I did use tutorials from a course on Udemy to help me start and looked over a fe
             ...do something else...
         }
     }
+    
 > I am then able to use the gamestates to allow me to navigate between different screens on the virtual machine depending on the gamestate and without having to write or reuse code over and over.
 
 This is a learning expereince for me and I made this game in 2 days. My aims for future projects is to continue putting out full versions of a game with game states that could in theory work and become fully developed games. Thank you for taking your time to look over my game!
