@@ -1,5 +1,7 @@
 # TerminalHacker
 
+Before continuing please be aware and make sure that you are on desktop to play this game. The game will not work on mobile, tablet, or other apple devices. Mac, Windows or Linux are the only supported platforms for this game trial.
+
 ## Play the Game!
 
 Click the following link to play the game and support me. Click for *[Terminal Hacker](https://sharemygame.com/@UmHeyThere/terminal-hacker-1-0?fbclid=IwAR1kJsu6oVLwbqLBEZPC101vzNH_3Qytk2r4c7daWx5KoyNBP2W9QUDbGmk)*. If you feel like providing feedback on my idea's regarding the balancing of the level's then also feel free to leave feedback via this *[feedback](https://docs.google.com/forms/d/1u79wHWWwkceLrxiWsusQMkOJdfi7okWby8RUGGxfBrQ/edit?fbclid=IwAR2eZNSo-2g90EYcAmx1PX52ArfB5GtqyEm_y5KsfcTR5IdG3NXtiAAcLHc)* link.
@@ -41,7 +43,7 @@ I did use tutorials from a course on Udemy to help me start and looked over a fe
             ...do something else...
         }
     }
-    
+
 > I am then able to use the gamestates to allow me to navigate between different screens on the virtual machine depending on the gamestate and without having to write or reuse code over and over.
 
 This is a learning expereince for me and I made this game in 2 days. My aims for future projects is to continue putting out full versions of a game with game states that could in theory work and become fully developed games. Thank you for taking your time to look over my game!
