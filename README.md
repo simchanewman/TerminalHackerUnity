@@ -1,6 +1,6 @@
 # TerminalHacker
 
-Before continuing please be aware and make sure that you are on desktop to play this game. The game will not work on mobile, tablet, or other apple devices. Mac, Windows or Linux are the only supported platforms for this game trial.
+Before continuing, please make sure that you are on desktop to play this game. The game will not work on mobile, tablet, or other apple devices. Mac, Windows or Linux are the only supported platforms for this game trial.
 
 ## Play the Game!
 
