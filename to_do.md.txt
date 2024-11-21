@@ -1,0 +1,2 @@
+1. Add a limit to the amount of wrong entries allowed at the start of the game
+2. Don't allow the start of the scabbled word to hint at the full word itself
