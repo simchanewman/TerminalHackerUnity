@@ -8,7 +8,7 @@ Click the following link to play the game and support me. Click for *[Terminal H
 
 *If you are having trouble actually playing the game once you have clicked the link, please make sure that you have slected the game-screen with your cursor. The game may not be playable if not selected. You can press `Esc` if you want to get bring cursor back and leave the game.*
 
-***Please note: if you click the link and it does not take you to the game link then please get in contact with me provately and I will be able to make this avaliable for you again (I do not control the servers or the website that it is being hosted on)*** 
+***Please note: if you click the link and it does not take you to the game link then please get in contact with me privately and I will be able to make this avaliable for you again (I do not control the servers or the website that it is being hosted on)*** 
 
 ## Gameplay Instructions
 
